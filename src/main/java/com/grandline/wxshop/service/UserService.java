@@ -1,6 +1,6 @@
 package com.grandline.wxshop.service;
 
-import com.grandline.wxshop.UserDao;
+import com.grandline.wxshop.dao.UserDao;
 import com.grandline.wxshop.generate.User;
 import org.apache.ibatis.exceptions.PersistenceException;
 import org.springframework.beans.factory.annotation.Autowired;

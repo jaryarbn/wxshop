@@ -1,4 +1,4 @@
-package com.grandline.wxshop;
+package com.grandline.wxshop.controller;
 
 import com.grandline.wxshop.entity.LoginResponse;
 import com.grandline.wxshop.service.AuthService;

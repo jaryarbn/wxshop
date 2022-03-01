@@ -1,6 +1,6 @@
 package com.grandline.wxshop.service;
 
-import com.grandline.wxshop.AuthController;
+import com.grandline.wxshop.controller.AuthController;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

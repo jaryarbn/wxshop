@@ -6,7 +6,7 @@
 <generatorConfiguration>
 
     <context id="wxshop" targetRuntime="MyBatis3">
-<!--        <plugin type="org.mybatis.generator.plugins.MapperAnnotationPlugin"/>-->
+        <plugin type="org.mybatis.generator.plugins.MapperAnnotationPlugin"/>
 <!--        <plugin type="com.qiukeke.mybatis.plugins.MySQLLimitPlugin"/>-->
 <!--        <plugin type="org.mybatis.generator.plugins.SerializablePlugin"/>-->
         <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver"
